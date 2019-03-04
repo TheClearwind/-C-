@@ -33,6 +33,10 @@ int main()
 		4.0.5*2=1.0											 1
 		所以0.8125=0.1101
 	*/
+	/*
+		float 7-8精度
+		double 15-16 精度(有效数字)
+	*/
 	system("pause");
 	return 0;
 }
