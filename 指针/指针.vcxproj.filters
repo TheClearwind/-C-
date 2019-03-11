@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="函数指针.cpp">
+    <ClCompile Include="main函数的参数问题.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
