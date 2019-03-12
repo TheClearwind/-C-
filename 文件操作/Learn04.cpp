@@ -25,7 +25,7 @@ int main() {
 	fprintf(fp, "%s %d %d %f\n", pa->name, pa->num, pa->age, pa->score);
 	//重置文件指针
 	rewind(fp);
-	//从文件中读取数据，保存到boyb
+	//从文件中读取数据，保存到boyb 
 	fscanf(fp, "%s %d %d %f\n", pb->name, &pb->num, &pb->age, &pb->score);
 	//pb = &boyb;
 	//将boyb中的数据输出到显示器

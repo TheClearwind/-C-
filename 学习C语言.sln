@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "结构体", "结构体\结�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文件操作", "文件操作\文件操作.vcxproj", "{CDE01EFA-42ED-4DE9-ADFC-C33A94F0E7FC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "链表", "链表\链表.vcxproj", "{97AC415D-7288-4D2B-B1FF-38A8964A2D71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{CDE01EFA-42ED-4DE9-ADFC-C33A94F0E7FC}.Release|x64.Build.0 = Release|x64
 		{CDE01EFA-42ED-4DE9-ADFC-C33A94F0E7FC}.Release|x86.ActiveCfg = Release|Win32
 		{CDE01EFA-42ED-4DE9-ADFC-C33A94F0E7FC}.Release|x86.Build.0 = Release|Win32
+		{97AC415D-7288-4D2B-B1FF-38A8964A2D71}.Debug|x64.ActiveCfg = Debug|x64
+		{97AC415D-7288-4D2B-B1FF-38A8964A2D71}.Debug|x64.Build.0 = Debug|x64
+		{97AC415D-7288-4D2B-B1FF-38A8964A2D71}.Debug|x86.ActiveCfg = Debug|Win32
+		{97AC415D-7288-4D2B-B1FF-38A8964A2D71}.Debug|x86.Build.0 = Debug|Win32
+		{97AC415D-7288-4D2B-B1FF-38A8964A2D71}.Release|x64.ActiveCfg = Release|x64
+		{97AC415D-7288-4D2B-B1FF-38A8964A2D71}.Release|x64.Build.0 = Release|x64
+		{97AC415D-7288-4D2B-B1FF-38A8964A2D71}.Release|x86.ActiveCfg = Release|Win32
+		{97AC415D-7288-4D2B-B1FF-38A8964A2D71}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
