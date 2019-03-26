@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文件操作", "文件操�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "链表", "链表\链表.vcxproj", "{97AC415D-7288-4D2B-B1FF-38A8964A2D71}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "疑难杂症专区", "疑难杂症专区\疑难杂症专区.vcxproj", "{5302B23B-E1BE-4A3A-BC6E-B45CE592837E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{97AC415D-7288-4D2B-B1FF-38A8964A2D71}.Release|x64.Build.0 = Release|x64
 		{97AC415D-7288-4D2B-B1FF-38A8964A2D71}.Release|x86.ActiveCfg = Release|Win32
 		{97AC415D-7288-4D2B-B1FF-38A8964A2D71}.Release|x86.Build.0 = Release|Win32
+		{5302B23B-E1BE-4A3A-BC6E-B45CE592837E}.Debug|x64.ActiveCfg = Debug|x64
+		{5302B23B-E1BE-4A3A-BC6E-B45CE592837E}.Debug|x64.Build.0 = Debug|x64
+		{5302B23B-E1BE-4A3A-BC6E-B45CE592837E}.Debug|x86.ActiveCfg = Debug|Win32
+		{5302B23B-E1BE-4A3A-BC6E-B45CE592837E}.Debug|x86.Build.0 = Debug|Win32
+		{5302B23B-E1BE-4A3A-BC6E-B45CE592837E}.Release|x64.ActiveCfg = Release|x64
+		{5302B23B-E1BE-4A3A-BC6E-B45CE592837E}.Release|x64.Build.0 = Release|x64
+		{5302B23B-E1BE-4A3A-BC6E-B45CE592837E}.Release|x86.ActiveCfg = Release|Win32
+		{5302B23B-E1BE-4A3A-BC6E-B45CE592837E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
